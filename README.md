@@ -16,6 +16,8 @@ Welcome to the Inhaler Solution Project! This project aims to create an accessib
 ## Introduction
 The Inhaler Solution Project is designed to assist visually impaired users in monitoring their inhaler dosages. Current inhaler solutions often rely heavily on visual cues, which are not accessible to users with visual impairments. Our design incorporates auditory and tactile feedback to ensure usability for all users.
 
+![Final Product](images/assembled_inhaler.png)
+
 ## Features
 - **Accurate Puff Counting**: Monitors the remaining puffs in the inhaler and alerts the user when the inhaler is almost empty.
 - **Auditory Feedback**: Uses a piezo buzzer to provide auditory alerts for different dosage levels.
@@ -73,12 +75,5 @@ Our design was tested for various parameters to ensure compliance with our goals
 
 ## Acknowledgements
 This project was completed as part of a collaborative effort by the following team members: Kangmengjie Wu, Krishna Gowda, Leo Wallner, Xristopher Aliferis, Anthony Garant, and Ali Masood. Special thanks to the Western University Faculty of Engineering for their support and resources.
-
-## Images and Media
-Include the following images in the README:
-
-1. Circuit Diagram
-2. CAD Models
-3. Final Assembled Product
 
 Additionally, a video demonstration of the device in action can be found [here](https://photos.app.goo.gl/ZSRYMpd52zBB2q329).
