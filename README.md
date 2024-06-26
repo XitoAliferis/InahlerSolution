@@ -16,7 +16,7 @@ Welcome to the Inhaler Solution Project! This project aims to create an accessib
 ## Introduction
 The Inhaler Solution Project is designed to assist visually impaired users in monitoring their inhaler dosages. Current inhaler solutions often rely heavily on visual cues, which are not accessible to users with visual impairments. Our design incorporates auditory and tactile feedback to ensure usability for all users.
 
-![Final Product](images/assembled_inhaler.png)
+![Final Product](images/assembled_inhaler.jpg)
 
 ## Features
 - **Accurate Puff Counting**: Monitors the remaining puffs in the inhaler and alerts the user when the inhaler is almost empty.
