@@ -2,6 +2,8 @@
 
 Welcome to the Inhaler Solution Project! This project aims to create an accessible and user-friendly inhaler counter for visually impaired individuals. This README provides a detailed overview of the software and circuit aspects of the project. 
 
+[Full Writeup](https://drive.google.com/file/d/140XP6-MOfPJ8_Qzr9zwVK0prqB59Dd8U/view)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
@@ -17,7 +19,6 @@ Welcome to the Inhaler Solution Project! This project aims to create an accessib
 The Inhaler Solution Project is designed to assist visually impaired users in monitoring their inhaler dosages. Current inhaler solutions often rely heavily on visual cues, which are not accessible to users with visual impairments. Our design incorporates auditory and tactile feedback to ensure usability for all users.
 
 ![Final Product](images/assembled_inhaler.jpg)
-![Final Writeup](28Inahl_Final_Report.docx)
 
 ## Features
 - **Accurate Puff Counting**: Monitors the remaining puffs in the inhaler and alerts the user when the inhaler is almost empty.
